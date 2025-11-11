@@ -1,4 +1,3 @@
-
 import React from 'react';
 
 const DottedGrid: React.FC = () => (
@@ -33,7 +32,7 @@ const Hero: React.FC = () => {
               O único método prático que te tira do zero à confiança para conversar, sem anos de gramática chata e regras que não funcionam.
             </p>
             <div className="mt-8 flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
-              <a href="#pricing" className="bg-brand-red hover:bg-red-700 text-white font-bold text-lg py-4 px-10 rounded-lg shadow-lg transform hover:scale-105 transition-transform duration-300">
+              <a href="https://wa.link/3u4nqe" target="_blank" rel="noopener noreferrer" className="bg-brand-red hover:bg-red-700 text-white font-bold text-lg py-4 px-10 rounded-lg shadow-lg transform hover:scale-105 transition-transform duration-300">
                 QUERO FALAR INGLÊS AGORA!
               </a>
             </div>
@@ -44,7 +43,7 @@ const Hero: React.FC = () => {
             <div className="absolute w-full h-full bg-brand-teal rounded-full blur-3xl opacity-30"></div>
             <div className="relative w-full max-w-sm mx-auto z-10">
                 <img 
-                    src="https://i.imgur.com/rN55hXo.png" 
+                    src="https://images.unsplash.com/photo-1627541718143-1adc1b582e62?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
                     alt="Leonel R. Matavele, seu professor de inglês" 
                     className="rounded-lg shadow-2xl w-full h-auto"
                 />

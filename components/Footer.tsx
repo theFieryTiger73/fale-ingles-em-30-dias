@@ -1,4 +1,3 @@
-
 import React from 'react';
 
 const Footer: React.FC = () => {
@@ -7,7 +6,7 @@ const Footer: React.FC = () => {
         <div className="container mx-auto px-6 text-center">
             <h3 className="text-2xl md:text-3xl font-bold">Pronto para finalmente falar inglês com confiança?</h3>
             <p className="text-gray-400 my-4">A oportunidade de mudar sua vida e sua carreira está a um clique de distância. Não deixe para depois.</p>
-             <a href="#pricing" className="inline-block bg-brand-red hover:bg-red-700 text-white font-bold text-lg py-4 px-10 rounded-lg shadow-lg transform hover:scale-105 transition-transform duration-300 mt-4">
+             <a href="https://wa.link/3u4nqe" target="_blank" rel="noopener noreferrer" className="inline-block bg-brand-red hover:bg-red-700 text-white font-bold text-lg py-4 px-10 rounded-lg shadow-lg transform hover:scale-105 transition-transform duration-300 mt-4">
                 SIM, QUERO MINHA VAGA AGORA!
             </a>
             <div className="mt-10 pt-8 border-t border-gray-700 text-sm text-gray-500">

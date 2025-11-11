@@ -1,4 +1,3 @@
-
 import React from 'react';
 
 const AboutInstructor: React.FC = () => {
@@ -14,7 +13,7 @@ const AboutInstructor: React.FC = () => {
             <p className="text-lg text-gray-700 mb-6">
               Por isso, dediquei anos para desenvolver um método focado 100% na conversação e na confiança. Já ajudei centenas de alunos de Moçambique, Angola e Brasil a destravarem o inglês e conquistarem seus sonhos. Minha missão é mostrar que você também pode, e de uma forma muito mais simples e rápida do que imagina.
             </p>
-            <a href="#pricing" className="bg-brand-dark hover:bg-gray-800 text-white font-bold py-3 px-8 rounded-lg transition-colors">
+            <a href="https://wa.link/3u4nqe" target="_blank" rel="noopener noreferrer" className="bg-brand-dark hover:bg-gray-800 text-white font-bold py-3 px-8 rounded-lg transition-colors">
               QUERO SER SEU ALUNO!
             </a>
           </div>
@@ -22,7 +21,7 @@ const AboutInstructor: React.FC = () => {
             <div className="relative w-full max-w-sm">
               <div className="absolute top-0 left-0 w-full h-full bg-brand-teal rounded-lg transform -rotate-3"></div>
               <img 
-                src="https://i.imgur.com/rN55hXo.png" 
+                src="https://i.ibb.co/hZJ45Yc/Leonel-Matavele-Instructor.jpg" 
                 alt="Foto de Leonel R. Matavele"
                 className="relative rounded-lg shadow-xl w-full"
               />

@@ -62,13 +62,13 @@ const Pricing: React.FC = () => {
                      <h3 className="font-display text-4xl text-center mb-2">ACESSO COMPLETO</h3>
                      <p className="text-center text-gray-500 mb-6">Curso + Todos os Bônus</p>
                      <div className="text-center my-4">
-                        <span className="text-2xl text-gray-500 line-through">De R$ 997,00</span>
+                        <span className="text-2xl text-gray-500 line-through">De 1499 MT</span>
                         <p className="text-xl">Por apenas:</p>
-                        <p className="text-6xl font-bold text-brand-dark my-2">12x <span className="text-brand-red">R$ 29,70</span></p>
-                        <p className="font-semibold">ou R$ 297,00 à vista</p>
+                        <p className="text-6xl font-bold text-brand-dark my-2"><span className="text-brand-red">499 MT</span></p>
+                        <p className="font-semibold">Só hoje! Pagamento único.</p>
                      </div>
                      <div className="my-8">
-                        <a href="#" className="w-full block text-center bg-brand-red hover:bg-red-700 text-white font-bold text-xl py-5 px-6 rounded-lg shadow-lg transform hover:scale-105 transition-transform duration-300 animate-pulse">
+                        <a href="https://wa.link/3u4nqe" target="_blank" rel="noopener noreferrer" className="w-full block text-center bg-brand-red hover:bg-red-700 text-white font-bold text-xl py-5 px-6 rounded-lg shadow-lg transform hover:scale-105 transition-transform duration-300 animate-pulse">
                             QUERO GARANTIR MINHA VAGA!
                         </a>
                      </div>

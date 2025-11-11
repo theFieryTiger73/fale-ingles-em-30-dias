@@ -29,19 +29,19 @@ const Testimonials: React.FC = () => {
       quote: "Em menos de um mês, eu fiz minha primeira entrevista de emprego em inglês e consegui a vaga! O método do Leonel é pura prática, foi o que fez toda a diferença.",
       name: "Júlia Santos",
       role: "Analista de Marketing, São Paulo",
-      image: "https://picsum.photos/id/237/100/100"
+      image: "https://i.pravatar.cc/100?u=julia"
     },
     {
       quote: "Eu tinha muita vergonha de falar. A comunidade no WhatsApp foi incrível, pratiquei todos os dias e perdi o medo. Hoje consigo conversar com clientes estrangeiros sem tremer.",
       name: "Manuel Costa",
       role: "Empreendedor, Luanda",
-      image: "https://picsum.photos/id/238/100/100"
+      image: "https://i.pravatar.cc/100?u=manuel"
     },
     {
       quote: "O melhor investimento que fiz na minha carreira. O curso é direto ao ponto e o professor é super atencioso. Recomendo para todos que querem resultados rápidos de verdade.",
       name: "Carla Ferreira",
       role: "Estudante Universitária, Maputo",
-      image: "https://picsum.photos/id/239/100/100"
+      image: "https://i.pravatar.cc/100?u=carla"
     },
   ];
 

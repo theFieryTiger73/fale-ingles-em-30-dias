@@ -1,4 +1,3 @@
-
 import React from 'react';
 
 const CheckIcon: React.FC<{className?: string}> = ({className}) => (
@@ -43,12 +42,12 @@ const Solution: React.FC = () => {
                 <span><span className="font-bold">Comunidade de Apoio:</span> Entre em um grupo exclusivo no WhatsApp para praticar com outros alunos e tirar dúvidas diretamente com o professor.</span>
               </li>
             </ul>
-             <a href="#pricing" className="inline-block bg-brand-teal hover:bg-teal-600 text-white font-bold text-lg py-4 px-10 rounded-lg shadow-lg transform hover:scale-105 transition-transform duration-300 mt-6">
+             <a href="https://wa.link/3u4nqe" target="_blank" rel="noopener noreferrer" className="inline-block bg-brand-teal hover:bg-teal-600 text-white font-bold text-lg py-4 px-10 rounded-lg shadow-lg transform hover:scale-105 transition-transform duration-300 mt-6">
                 QUERO DESTRAVAR MEU INGLÊS
              </a>
           </div>
           <div className="flex justify-center">
-            <img src="https://i.imgur.com/B948u3o.png" alt="Homem falando inglês com confiança" className="rounded-lg shadow-2xl w-full max-w-md"/>
+            <img src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Pessoas conversando com confiança" className="rounded-lg shadow-2xl w-full max-w-md"/>
           </div>
         </div>
       </div>
